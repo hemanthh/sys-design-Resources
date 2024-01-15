@@ -2,3 +2,5 @@ sysdesign
 Kubernetes
 Partitioning
 Load Balancing
+Sharding
+Auto scaling
