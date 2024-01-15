@@ -1,0 +1,8 @@
+git init
+git clone
+git add
+git commit
+git branch -b featuregit
+git status
+git merge
+
