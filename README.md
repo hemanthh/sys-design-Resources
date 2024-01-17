@@ -1,7 +1,7 @@
 git init
 git clone https://abc.com
 git branch branchname
-git checkout branchname
+git checkout branch name
 vi abc.txt
 git status
 git add ./git add abc.txt
