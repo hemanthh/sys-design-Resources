@@ -1,0 +1,1 @@
+cart is an list that;s used to place items before checkout
